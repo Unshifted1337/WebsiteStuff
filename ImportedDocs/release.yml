@@ -1,0 +1,8 @@
+repos:
+- name: enter name
+  remote: enter remote
+  branch: master
+  gen-absolute-links: true
+  files:
+  - src: CHANGELOG-1.17.md
+    dst: enter dst
